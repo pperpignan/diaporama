@@ -1,0 +1,20 @@
+img
+{
+position: absolute;
+left: 0px;
+top: 0px;
+display: none;
+}
+
+.miniature
+{
+height:120px;
+width:120px;
+}
+
+.grand
+{
+height:350px;
+width:550px;
+opacity:0.75;
+}
